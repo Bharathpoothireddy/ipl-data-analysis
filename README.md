@@ -1,2 +1,2 @@
 # ipl-data-analysis
-IPL data analysis project - RCB performance analysis
+IPL data analysis project(EDA) - RCB performance analysis
