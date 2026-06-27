@@ -54,8 +54,6 @@ This project is a structured 5-day data analytics deep-dive into RCB's performan
 
 ## 📁 Repository Structure
 
-## 📁 Repository Structure
-
 rcb-ipl-analysis/
 ├── README.md                  # Project documentation
 ├── 01_data_overview.ipynb     # Day 1: Data loading, cleaning, overall metrics
